@@ -1,11 +1,8 @@
-# Sorting - Sorting Visualizer
-
-<p align="center">
-  <img src="10.png">
-</p>
-
-
+# Overview
 This project is Sorting visualizer to understand how different sorting algorithms work this visualizer includes bubble-sort,selection-sort,insertion-sort,shell-sort,quick-sort,merge-sort sorting algorithms.
+
+# Deployment
+Deployed Link - https://shashank-sorting-visualiser.netlify.app/
 
 # How to run app 
 
@@ -42,7 +39,7 @@ Sorting - Sorting Visualizer
     set algo heading 
         - set the heading based on method user selects
     reset bars
-        - remove all bars from screen
+        - reset all bars from screen
     make bars
         - make bars to screen by taking size as parameter
     draw bars
@@ -77,7 +74,4 @@ Sorting - Sorting Visualizer
 ## What it looks like
 
 
-<p align="center">
-  <img src="0.gif">
-</p>
   
