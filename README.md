@@ -1,13 +1,48 @@
 # Overview
-This project is Sorting visualizer to understand how different sorting algorithms work this visualizer includes bubble-sort,selection-sort,insertion-sort,shell-sort,quick-sort,merge-sort sorting algorithms.
+The Sorting Visualizer is an interactive web-based tool that helps users understand and visualize how various sorting algorithms work. It provides a graphical representation of sorting processes, allowing users to see how elements are compared, swapped, and arranged in real-time. The tool includes multiple sorting algorithms such as Bubble Sort, Selection Sort, Insertion Sort, Shell Sort, Quick Sort, and Merge Sort.
 
 # Deployment
 Deployed Link - https://shashank-sorting-visualiser.netlify.app/
 
+# Features
+### Interactive Visualization:
+- Watch each algorithm sort an array step-by-step with real-time visual feedback.
+### Multiple Sorting Algorithms:
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Shell Sort
+- Quick Sort
+- Merge Sort
+
+### Adjustable Settings:
+- Control the speed of the visualization.
+- Adjust the size of the array to see how different algorithms perform on small and large datasets.
+### Randomize Array:
+- Shuffle the array with a click to test different sorting scenarios.
+- Clean UI: Simple and user-friendly interface for better learning and exploration.
+
+# Tech Stack
+**HTML:** Structure of the web application.
+**CSS:** Styling and animation for bars and transitions.
+**JavaScript:** Core logic for sorting algorithms and DOM manipulation
+
+
 # How to run app 
 
- * This is simple website with vanila javascript so you can directly run on your local machine without downloading any additional framework.
- * If you want to edite then it is better to use sass compiler because scss is used here. 
+- Clone the repository
+```
+git clone https://github.com/your-username/sorting-visualizer.git
+
+```
+- Navigate to the project directory
+```
+cd sorting-visualizer
+```
+- Open the index.html file in a web browser
+```
+open index.html
+```  
 
 # How to run modules
 
@@ -72,6 +107,9 @@ Sorting - Sorting Visualizer
 ```
 
 ## What it looks like
+![image](https://github.com/user-attachments/assets/cee696b6-5dfd-48de-b787-2a637c426a3e)
+
+![image](https://github.com/user-attachments/assets/dfbbf763-0e68-406a-8a52-15c799bce0db)
 
 
   
