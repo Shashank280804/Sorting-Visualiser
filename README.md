@@ -24,7 +24,9 @@ Deployed Link - https://shashank-sorting-visualiser.netlify.app/
 
 # Tech Stack
 **HTML:** Structure of the web application.
+
 **CSS:** Styling and animation for bars and transitions.
+
 **JavaScript:** Core logic for sorting algorithms and DOM manipulation
 
 
@@ -32,7 +34,7 @@ Deployed Link - https://shashank-sorting-visualiser.netlify.app/
 
 - Clone the repository
 ```
-git clone https://github.com/your-username/sorting-visualizer.git](https://github.com/Shashank280804/Sorting-Visualiser.git
+git clone https://github.com/Shashank280804/Sorting-Visualiser.git
 
 ```
 - Navigate to the project directory
