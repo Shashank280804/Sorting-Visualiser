@@ -32,7 +32,7 @@ Deployed Link - https://shashank-sorting-visualiser.netlify.app/
 
 - Clone the repository
 ```
-git clone https://github.com/your-username/sorting-visualizer.git
+git clone https://github.com/your-username/sorting-visualizer.git](https://github.com/Shashank280804/Sorting-Visualiser.git
 
 ```
 - Navigate to the project directory
